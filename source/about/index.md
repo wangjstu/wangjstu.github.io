@@ -1,4 +1,8 @@
 ---
-title: about
-date: 2020-07-03 02:11:08
+title: 关于
+description: 个人简介
+layout: about
+comments: false
+sidebar: custom
 ---
+个人详细介绍

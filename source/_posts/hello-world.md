@@ -3,7 +3,6 @@ title: Hello World
 
 tags:
 - Hexo
-- HelloWorld
 categories:
 - Hexo
 ---
