@@ -211,9 +211,9 @@ profile:
     - 后端开发
     - 开发组长
   # My Personal Works
-  works:
-    name:
-      link: http://www.51ifind.com
-      date: 2014
+  #works:
+  #  name:
+  #    link: http://www.51ifind.com
+  #    date: 2014
   # My Personal Projects
   projects:
