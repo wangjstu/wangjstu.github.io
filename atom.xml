@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangjstu.github.io/"/>
-  <updated>2020-07-02T18:08:31.008Z</updated>
+  <updated>2020-07-02T18:14:00.929Z</updated>
   <id>http://wangjstu.github.io/</id>
   
   <author>
@@ -20,19 +20,25 @@
     <title>Hello World</title>
     <link href="http://wangjstu.github.io/2020/07/03/hello-world/"/>
     <id>http://wangjstu.github.io/2020/07/03/hello-world/</id>
-    <published>2020-07-02T18:08:31.008Z</published>
-    <updated>2020-07-02T18:08:31.008Z</updated>
+    <published>2020-07-02T18:14:00.929Z</published>
+    <updated>2020-07-02T18:14:00.929Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Jul 03 2020 02:11:58 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;tags:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hexo&lt;/li&gt;&lt;li&gt;HelloWorld&lt;br&gt;categories:&lt;/li&gt;&lt;li&gt;Hexo&lt;/li&gt;&lt;/
+        &lt;!-- build time:Fri Jul 03 2020 02:14:08 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
       
     
     </summary>
     
     
+      <category term="Hexo" scheme="http://wangjstu.github.io/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://wangjstu.github.io/tags/Hexo/"/>
+    
+      <category term="HelloWorld" scheme="http://wangjstu.github.io/tags/HelloWorld/"/>
     
   </entry>
   
