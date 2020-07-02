@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>typoway</title>
+  
+  <subtitle>‘wangjstu`s blog&#39;</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wangjstu.github.io/"/>
+  <updated>2020-07-01T17:43:14.832Z</updated>
+  <id>http://wangjstu.github.io/</id>
+  
+  <author>
+    <name>wangjstu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://wangjstu.github.io/2020/07/02/hello-world/"/>
+    <id>http://wangjstu.github.io/2020/07/02/hello-world/</id>
+    <published>2020-07-01T17:43:14.832Z</published>
+    <updated>2020-07-01T17:43:14.832Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Fri Jul 03 2020 01:43:52 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
