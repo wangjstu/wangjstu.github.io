@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangjstu.github.io/"/>
-  <updated>2020-07-02T18:14:00.929Z</updated>
+  <updated>2020-07-02T18:27:27.664Z</updated>
   <id>http://wangjstu.github.io/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <title>Hello World</title>
     <link href="http://wangjstu.github.io/2020/07/03/hello-world/"/>
     <id>http://wangjstu.github.io/2020/07/03/hello-world/</id>
-    <published>2020-07-02T18:14:00.929Z</published>
-    <updated>2020-07-02T18:14:00.929Z</updated>
+    <published>2020-07-02T18:27:27.664Z</published>
+    <updated>2020-07-02T18:27:27.664Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Fri Jul 03 2020 02:25:00 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
+        &lt;!-- build time:Fri Jul 03 2020 02:29:01 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
       
     
     </summary>
@@ -37,8 +37,6 @@
     
     
       <category term="Hexo" scheme="http://wangjstu.github.io/tags/Hexo/"/>
-    
-      <category term="HelloWorld" scheme="http://wangjstu.github.io/tags/HelloWorld/"/>
     
   </entry>
   
