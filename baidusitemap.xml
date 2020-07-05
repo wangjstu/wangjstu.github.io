@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://wangjstu.github.io/2020/07/05/linux-curl-handbook/</loc>
+    <loc>http://wangjstu.github.io/2020/07/05/hello-hexo-blog/</loc>
     <lastmod>2020-07-05</lastmod>
   </url>  <url>
-    <loc>http://wangjstu.github.io/2020/07/05/hello-hexo-blog/</loc>
+    <loc>http://wangjstu.github.io/2020/07/05/linux-curl-handbook/</loc>
     <lastmod>2020-07-05</lastmod>
   </url>  <url>
     <loc>http://wangjstu.github.io/2020/07/05/hello-world/</loc>
