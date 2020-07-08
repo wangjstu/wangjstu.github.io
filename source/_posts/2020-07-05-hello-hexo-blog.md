@@ -32,8 +32,8 @@ toc: true
     * git commit -m "first commit"
     * git remote add origin https://github.com/wangjstu/wangjstu.github.io.git
     * git push -u origin master
- 
- 4. 验收
+
+4.  验收
     * 访问 https://wangjstu.github.io
 
 ## Node.js安装
