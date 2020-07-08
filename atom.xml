@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wangjstu.github.io/"/>
-  <updated>2020-07-05T14:53:08.917Z</updated>
+  <updated>2020-07-08T17:27:42.856Z</updated>
   <id>http://wangjstu.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>error-The-following-untracked-working-tree-files-would-be-overwritten-by-checkout</title>
+    <link href="http://wangjstu.github.io/2020/07/09/error-The-following-untracked-working-tree-files-would-be-overwritten-by-checkout/"/>
+    <id>http://wangjstu.github.io/2020/07/09/error-The-following-untracked-working-tree-files-would-be-overwritten-by-checkout/</id>
+    <published>2020-07-08T16:00:00.000Z</published>
+    <updated>2020-07-08T17:27:42.856Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Thu Jul 09 2020 01:27:50 GMT+0800 (中国标准时间) --&gt;&lt;hr&gt;&lt;p&gt;title: git error:The following untracked working tree files would be ov
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>hexo blog 创建指导手册</title>
@@ -27,7 +47,7 @@
     
       
       
-        &lt;!-- build time:Sun Jul 05 2020 22:53:32 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Github仓库建站&quot;&gt;&lt;a href=&quot;#Github仓库建站&quot; class=&quot;headerlink&quot; title=&quot;Github仓库建站
+        &lt;!-- build time:Thu Jul 09 2020 01:27:50 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Github仓库建站&quot;&gt;&lt;a href=&quot;#Github仓库建站&quot; class=&quot;headerlink&quot; title=&quot;Github仓库建站
       
     
     </summary>
@@ -51,7 +71,7 @@
     
       
       
-        &lt;!-- build time:Sun Jul 05 2020 22:53:32 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
+        &lt;!-- build time:Thu Jul 09 2020 01:27:50 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
       
     
     </summary>
@@ -75,7 +95,7 @@
     
       
       
-        &lt;!-- build time:Sun Jul 05 2020 22:53:32 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Linux命令&lt;
+        &lt;!-- build time:Thu Jul 09 2020 01:27:50 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Linux命令&lt;
       
     
     </summary>
