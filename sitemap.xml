@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wangjstu.github.io/2020/08/02/Linux-tar-handbook/</loc>
+    
+    <lastmod>2020-08-02T15:04:44.267Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wangjstu.github.io/2020/08/02/Git-stash-useful-tricks/</loc>
     
     <lastmod>2020-08-02T07:30:31.474Z</lastmod>
