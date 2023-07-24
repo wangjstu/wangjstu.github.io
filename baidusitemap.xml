@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://wangjstu.github.io/2023/07/23/the-story-of-carriage-return-and-line-feed-in-shell-file/</loc>
+    <lastmod>2023-07-23</lastmod>
+  </url>
+  <url>
     <loc>http://wangjstu.github.io/2020/12/28/Email-Protocols-POP3-SMTP-and-IMAP/</loc>
     <lastmod>2020-12-28</lastmod>
   </url>
@@ -10,10 +14,6 @@
   </url>
   <url>
     <loc>http://wangjstu.github.io/2020/08/02/Git-stash-useful-tricks/</loc>
-    <lastmod>2020-08-02</lastmod>
-  </url>
-  <url>
-    <loc>http://wangjstu.github.io/2020/08/02/the-story-of-carriage-return-and-line-feed-in-shell-file/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   <url>

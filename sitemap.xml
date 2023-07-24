@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wangjstu.github.io/2023/07/23/the-story-of-carriage-return-and-line-feed-in-shell-file/</loc>
+    
+    <lastmod>2023-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://wangjstu.github.io/2020/12/28/Email-Protocols-POP3-SMTP-and-IMAP/</loc>
     
     <lastmod>2020-12-28</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>http://wangjstu.github.io/2020/08/02/Git-stash-useful-tricks/</loc>
-    
-    <lastmod>2020-08-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://wangjstu.github.io/2020/08/02/the-story-of-carriage-return-and-line-feed-in-shell-file/</loc>
     
     <lastmod>2020-08-02</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/repository/index.html</loc>
+    <loc>http://wangjstu.github.io/tags/index.html</loc>
     
     <lastmod>2020-07-02</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/tags/index.html</loc>
+    <loc>http://wangjstu.github.io/repository/index.html</loc>
     
     <lastmod>2020-07-02</lastmod>
     
@@ -209,7 +209,14 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/tags/Shell/</loc>
+    <loc>http://wangjstu.github.io/tags/%E5%9B%9E%E8%BD%A6/</loc>
+    <lastmod>2023-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wangjstu.github.io/tags/%E6%8D%A2%E8%A1%8C%E7%AC%A6/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -246,14 +253,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/categories/%E5%9B%9E%E8%BD%A6/</loc>
-    <lastmod>2023-07-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://wangjstu.github.io/categories/%E5%9B%9E%E8%BD%A6/%E6%8D%A2%E8%A1%8C%E7%AC%A6/</loc>
+    <loc>http://wangjstu.github.io/categories/Shell/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
