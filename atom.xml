@@ -26,7 +26,8 @@
     
       
       
-    <summary type="html">&lt;h2 id=&quot;故事概览&quot;&gt;&lt;a href=&quot;#故事概览&quot; class=&quot;headerlink&quot; title=&quot;故事概览&quot;&gt;&lt;/a&gt;故事概览&lt;/h2&gt;&lt;p&gt;* 这个故事发生持续了1个小时，现象是一个shell脚本报了&lt;code&gt;ambiguous redirect&lt;/code&gt;错</summary>
+    <summary type="html">&lt;h2 id=&quot;故事概览&quot;&gt;&lt;a href=&quot;#故事概览&quot; class=&quot;headerlink&quot; title=&quot;故事概览&quot;&gt;&lt;/a&gt;故事概览&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;这个故事发生持续了1个小时，现象是一个shell脚本报了&lt;code&gt;ambiguous redirect&lt;/co</summary>
       
     
     
