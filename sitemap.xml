@@ -4,7 +4,7 @@
   <url>
     <loc>http://wangjstu.github.io/2020/12/28/Email-Protocols-POP3-SMTP-and-IMAP/</loc>
     
-    <lastmod>2021-01-03</lastmod>
+    <lastmod>2020-12-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,6 +21,15 @@
   
   <url>
     <loc>http://wangjstu.github.io/2020/08/02/Git-stash-useful-tricks/</loc>
+    
+    <lastmod>2020-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://wangjstu.github.io/2020/08/02/the-story-of-carriage-return-and-line-feed-in-shell-file/</loc>
     
     <lastmod>2020-08-02</lastmod>
     
@@ -47,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/2020/07/05/linux-curl-handbook/</loc>
+    <loc>http://wangjstu.github.io/2020/07/05/hello-world/</loc>
     
     <lastmod>2020-07-05</lastmod>
     
@@ -56,9 +65,9 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/2020/07/05/hello-world/</loc>
+    <loc>http://wangjstu.github.io/2020/07/05/linux-curl-handbook/</loc>
     
-    <lastmod>2020-07-05</lastmod>
+    <lastmod>2020-07-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -83,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/categories/index.html</loc>
+    <loc>http://wangjstu.github.io/books/index.html</loc>
     
     <lastmod>2020-07-02</lastmod>
     
@@ -92,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/books/index.html</loc>
+    <loc>http://wangjstu.github.io/categories/index.html</loc>
     
     <lastmod>2020-07-02</lastmod>
     
@@ -144,14 +153,14 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/tags/Git/</loc>
+    <loc>http://wangjstu.github.io/tags/Linux/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/tags/Linux/</loc>
+    <loc>http://wangjstu.github.io/tags/Git/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -199,17 +208,17 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://wangjstu.github.io/categories/Hexo/</loc>
+    <loc>http://wangjstu.github.io/tags/Shell/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>http://wangjstu.github.io/categories/Git/</loc>
+    <loc>http://wangjstu.github.io/categories/Hexo/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -223,7 +232,28 @@
   </url>
   
   <url>
+    <loc>http://wangjstu.github.io/categories/Git/</loc>
+    <lastmod>2023-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://wangjstu.github.io/categories/Protocols/</loc>
+    <lastmod>2023-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wangjstu.github.io/categories/%E5%9B%9E%E8%BD%A6/</loc>
+    <lastmod>2023-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wangjstu.github.io/categories/%E5%9B%9E%E8%BD%A6/%E6%8D%A2%E8%A1%8C%E7%AC%A6/</loc>
     <lastmod>2023-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

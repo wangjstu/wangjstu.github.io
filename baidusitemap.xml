@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://wangjstu.github.io/2020/12/28/Email-Protocols-POP3-SMTP-and-IMAP/</loc>
-    <lastmod>2021-01-03</lastmod>
+    <lastmod>2020-12-28</lastmod>
   </url>
   <url>
     <loc>http://wangjstu.github.io/2020/08/02/Linux-tar-handbook/</loc>
@@ -10,6 +10,10 @@
   </url>
   <url>
     <loc>http://wangjstu.github.io/2020/08/02/Git-stash-useful-tricks/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  <url>
+    <loc>http://wangjstu.github.io/2020/08/02/the-story-of-carriage-return-and-line-feed-in-shell-file/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   <url>
@@ -21,11 +25,11 @@
     <lastmod>2020-07-05</lastmod>
   </url>
   <url>
-    <loc>http://wangjstu.github.io/2020/07/05/linux-curl-handbook/</loc>
+    <loc>http://wangjstu.github.io/2020/07/05/hello-world/</loc>
     <lastmod>2020-07-05</lastmod>
   </url>
   <url>
-    <loc>http://wangjstu.github.io/2020/07/05/hello-world/</loc>
-    <lastmod>2020-07-05</lastmod>
+    <loc>http://wangjstu.github.io/2020/07/05/linux-curl-handbook/</loc>
+    <lastmod>2020-07-04</lastmod>
   </url>
 </urlset> 
