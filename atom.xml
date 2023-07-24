@@ -3,7 +3,7 @@
   <title>typoway</title>
   
   <subtitle>‘wangjstu`s blog&#39;</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://wangjstu.github.io/atom.xml" rel="self"/>
   
   <link href="http://wangjstu.github.io/"/>
   <updated>2021-01-03T14:15:00.353Z</updated>
@@ -23,26 +23,27 @@
     <published>2020-12-28T04:02:23.000Z</published>
     <updated>2021-01-03T14:15:00.353Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;概要&quot;&gt;&lt;a href=&quot;#概要&quot; class=&quot;headerlink&quot; title=&quot;概要&quot;&gt;&lt;/a&gt;概要&lt;/h2&gt;&lt;p&gt;主要通过以下三个
+    <summary type="html">&lt;h2 id=&quot;概要&quot;&gt;&lt;a href=&quot;#概要&quot; class=&quot;headerlink&quot; title=&quot;概要&quot;&gt;&lt;/a&gt;概要&lt;/h2&gt;&lt;p&gt;主要通过以下三个方面进行介绍（what、which）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;POP3是什么及使用端口&lt;/li&gt;
+&lt;li&gt;IMAP是什么</summary>
       
     
-    </summary>
     
     
-      <category term="Protocols" scheme="http://wangjstu.github.io/categories/Protocols/"/>
+    <category term="Protocols" scheme="http://wangjstu.github.io/categories/Protocols/"/>
     
     
-      <category term="Protocols" scheme="http://wangjstu.github.io/tags/Protocols/"/>
+    <category term="Protocols" scheme="http://wangjstu.github.io/tags/Protocols/"/>
     
-      <category term="POP3" scheme="http://wangjstu.github.io/tags/POP3/"/>
+    <category term="POP3" scheme="http://wangjstu.github.io/tags/POP3/"/>
     
-      <category term="SMTP" scheme="http://wangjstu.github.io/tags/SMTP/"/>
+    <category term="SMTP" scheme="http://wangjstu.github.io/tags/SMTP/"/>
     
-      <category term="IMAP" scheme="http://wangjstu.github.io/tags/IMAP/"/>
+    <category term="IMAP" scheme="http://wangjstu.github.io/tags/IMAP/"/>
     
   </entry>
   
@@ -53,22 +54,21 @@
     <published>2020-08-02T15:02:58.000Z</published>
     <updated>2020-08-02T15:12:18.639Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Tar语法详解&quot;&gt;&lt;a href=&quot;#Tar语法详解&quot; class=&quot;headerlink&quot; title=&quot;Tar语法详解&quot;&gt;&lt;/a&gt;Tar
+    <summary type="html">&lt;h2 id=&quot;Tar语法详解&quot;&gt;&lt;a href=&quot;#Tar语法详解&quot; class=&quot;headerlink&quot; title=&quot;Tar语法详解&quot;&gt;&lt;/a&gt;Tar语法详解&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;tar 命令帮助信息，包括语法基础：&lt;figure class=&quot;highlight s</summary>
       
     
-    </summary>
     
     
-      <category term="Linux" scheme="http://wangjstu.github.io/categories/Linux/"/>
+    <category term="Linux" scheme="http://wangjstu.github.io/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="http://wangjstu.github.io/tags/Linux/"/>
+    <category term="Linux" scheme="http://wangjstu.github.io/tags/Linux/"/>
     
-      <category term="tar" scheme="http://wangjstu.github.io/tags/tar/"/>
+    <category term="tar" scheme="http://wangjstu.github.io/tags/tar/"/>
     
   </entry>
   
@@ -79,22 +79,23 @@
     <published>2020-08-02T07:27:29.000Z</published>
     <updated>2020-08-02T07:30:31.474Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;Git
+    <summary type="html">&lt;h2 id=&quot;目录&quot;&gt;&lt;a href=&quot;#目录&quot; class=&quot;headerlink&quot; title=&quot;目录&quot;&gt;&lt;/a&gt;目录&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Git stash save&lt;/li&gt;
+&lt;li&gt;Git stash list&lt;/li&gt;
+&lt;li&gt;Git stash apply&lt;</summary>
       
     
-    </summary>
     
     
-      <category term="Git" scheme="http://wangjstu.github.io/categories/Git/"/>
+    <category term="Git" scheme="http://wangjstu.github.io/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://wangjstu.github.io/tags/Git/"/>
+    <category term="Git" scheme="http://wangjstu.github.io/tags/Git/"/>
     
-      <category term="stash" scheme="http://wangjstu.github.io/tags/stash/"/>
+    <category term="stash" scheme="http://wangjstu.github.io/tags/stash/"/>
     
   </entry>
   
@@ -105,20 +106,18 @@
     <published>2020-07-08T17:30:49.000Z</published>
     <updated>2020-07-08T17:32:21.519Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;今天在服务器上更
+    <summary type="html">&lt;h2 id=&quot;问题&quot;&gt;&lt;a href=&quot;#问题&quot; class=&quot;headerlink&quot; title=&quot;问题&quot;&gt;&lt;/a&gt;问题&lt;/h2&gt;&lt;p&gt;今天在服务器上更新了一些代码文件，想着在本地也更新一下，之前在本地也编辑了部分，没有服务器上的全，要废弃了。到对应代码目录执行&lt;code&gt;g</summary>
       
     
-    </summary>
     
     
-      <category term="Git" scheme="http://wangjstu.github.io/categories/Git/"/>
+    <category term="Git" scheme="http://wangjstu.github.io/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://wangjstu.github.io/tags/Git/"/>
+    <category term="Git" scheme="http://wangjstu.github.io/tags/Git/"/>
     
   </entry>
   
@@ -129,20 +128,21 @@
     <published>2020-07-05T14:20:21.000Z</published>
     <updated>2020-07-05T14:53:08.917Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;Github仓库建站&quot;&gt;&lt;a href=&quot;#Github仓库建站&quot; class=&quot;headerlink&quot; title=&quot;Github仓库建站
+    <summary type="html">&lt;h2 id=&quot;Github仓库建站&quot;&gt;&lt;a href=&quot;#Github仓库建站&quot; class=&quot;headerlink&quot; title=&quot;Github仓库建站&quot;&gt;&lt;/a&gt;Github仓库建站&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;仓库建站&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;进入个人github&lt;</summary>
       
     
-    </summary>
     
     
-      <category term="Hexo" scheme="http://wangjstu.github.io/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://wangjstu.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://wangjstu.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://wangjstu.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -153,20 +153,18 @@
     <published>2020-07-05T14:14:23.668Z</published>
     <updated>2020-07-05T14:14:23.668Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
-    </summary>
     
     
-      <category term="Hexo" scheme="http://wangjstu.github.io/categories/Hexo/"/>
+    <category term="Hexo" scheme="http://wangjstu.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://wangjstu.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://wangjstu.github.io/tags/Hexo/"/>
     
   </entry>
   
@@ -177,20 +175,18 @@
     <published>2020-07-04T16:00:00.000Z</published>
     <updated>2020-07-05T14:32:46.066Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Jan 03 2021 22:15:33 GMT+0800 (中国标准时间) --&gt;&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Linux命令&lt;
+    <summary type="html">&lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;Linux命令&lt;code&gt;curl&lt;/code&gt; 可以被轻松地应用于 web 调试中，它们的好兄弟 wget 也是如此，或者也可以试试更潮的</summary>
       
     
-    </summary>
     
     
-      <category term="Linux" scheme="http://wangjstu.github.io/categories/Linux/"/>
+    <category term="Linux" scheme="http://wangjstu.github.io/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="http://wangjstu.github.io/tags/Linux/"/>
+    <category term="Linux" scheme="http://wangjstu.github.io/tags/Linux/"/>
     
   </entry>
   
