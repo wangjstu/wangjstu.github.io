@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/tags/index.html</loc>
+    <loc>http://wangjstu.github.io/repository/index.html</loc>
     
     <lastmod>2020-07-02</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://wangjstu.github.io/repository/index.html</loc>
+    <loc>http://wangjstu.github.io/tags/index.html</loc>
     
     <lastmod>2020-07-02</lastmod>
     
@@ -155,13 +155,6 @@
 
   
   <url>
-    <loc>http://wangjstu.github.io/tags/Hexo/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://wangjstu.github.io/tags/Linux/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +163,13 @@
   
   <url>
     <loc>http://wangjstu.github.io/tags/Git/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wangjstu.github.io/tags/Hexo/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -248,13 +248,6 @@
 
   
   <url>
-    <loc>http://wangjstu.github.io/categories/Hexo/</loc>
-    <lastmod>2023-07-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://wangjstu.github.io/categories/Linux/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -263,6 +256,13 @@
   
   <url>
     <loc>http://wangjstu.github.io/categories/Git/</loc>
+    <lastmod>2023-07-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wangjstu.github.io/categories/Hexo/</loc>
     <lastmod>2023-07-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
