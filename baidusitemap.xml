@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://wangjstu.github.io/2023/12/13/linux-rsync-examples/</loc>
+    <lastmod>2023-12-13</lastmod>
+  </url>
+  <url>
     <loc>http://wangjstu.github.io/2023/08/10/Apache-HTTP-MPM-Selection-and-Configuration/</loc>
     <lastmod>2023-08-10</lastmod>
   </url>
