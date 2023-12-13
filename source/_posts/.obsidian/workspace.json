@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "394611a9ec6088cf",
+    "id": "cc3579fac7f495d9",
     "type": "split",
     "children": [
       {
-        "id": "2191c0d97fc84196",
+        "id": "fae1006e6195acb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7a41be165eb8ab13",
+            "id": "ef8fa6b1d66c4dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-26-Translate-P12-format-certificate-to-PEM-format.md",
-                "mode": "source",
+                "file": "2023-12-13-linux-rsync-examples.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6400bd7bb6d840d8",
+    "id": "9946029c1a959c22",
     "type": "split",
     "children": [
       {
-        "id": "e21031f307138d24",
+        "id": "fec97b003cfa829c",
         "type": "tabs",
         "children": [
           {
-            "id": "110a435039fda69f",
+            "id": "751be4b7368b9dd6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "53968e596f7dc30d",
+            "id": "695c8b35ab814cd3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "53a3c0711a11953c",
+            "id": "ced298290609fe5e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "e01ae9f1491fe5df",
+    "id": "4419b764efb74e05",
     "type": "split",
     "children": [
       {
-        "id": "ff32811f2246ebfb",
+        "id": "16aea05196920b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "487acf9b3729be5b",
+            "id": "e239bcfee7ba01ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-26-Translate-P12-format-certificate-to-PEM-format.md",
+                "file": "2023-12-13-linux-rsync-examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "4090562c2177314c",
+            "id": "0048a0fa638fe499",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-26-Translate-P12-format-certificate-to-PEM-format.md",
+                "file": "2023-12-13-linux-rsync-examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fb1962819615f67a",
+            "id": "52fda35fd0179088",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "f0c2be7a99c6a3c9",
+            "id": "843e20e097df7175",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-26-Translate-P12-format-certificate-to-PEM-format.md"
+                "file": "2023-12-13-linux-rsync-examples.md"
               }
             }
           }
@@ -146,14 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a41be165eb8ab13",
+  "active": "ef8fa6b1d66c4dfe",
   "lastOpenFiles": [
-    "2023-07-24-the-story-of-carriage-return-and-line-feed-in-shell-file.md",
-    "2023-07-26-Translate-P12-format-certificate-to-PEM-format.md",
-    "2020-08-02-Git-stash-useful-tricks.md",
-    "hello-world.md",
-    "2020-12-28-Email-Protocols-POP3-SMTP-and-IMAP.md",
-    "2020-08-02-Linux-tar-handbook.md",
-    "2023-07-24-the-story-of-carriage-return-and-line-feed-in-shell.md"
+    "2023-08-10-Apache-HTTP-MPM-Selection-and-Configuration.md",
+    "2023-12-13-linux-rsync-examples.md",
+    "2023-08-10-Apache-HTTP-MPM-Selection-and-Configuration/01-apache-http-work-event.png",
+    "2023-08-10-Apache-HTTP-MPM-Selection-and-Configuration/01-apache-http-prefork.png",
+    "2023-07-26-Translate-P12-format-certificate-to-PEM-format.md"
   ]
 }
